@@ -1,2 +1,14 @@
 # anbofootball-hub
-HTML page archive and documentation
+
+发布页面归档目录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
